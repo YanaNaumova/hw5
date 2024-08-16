@@ -1,0 +1,23 @@
+.header_container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 32px;
+}
+
+.header {
+  font-weight: 700;
+  font-size: 64px;
+  line-height: 75.84px;
+  color: #1ed760;
+}
+
+.header_text {
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 37.92px;
+  color: #1ed760;
+  max-width: 109px;
+  text-align: center;
+}
